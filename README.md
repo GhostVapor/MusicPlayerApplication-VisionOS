@@ -1,4 +1,4 @@
-# MusicPlayerApplication-VisionOS
+# Music Player Application-VisionOS
  Music player application for VisionOS
 
  The Vision Pro app is a spatial music player that allows users to interact with their music library in a 3D environment. 
